@@ -618,7 +618,7 @@ Singer and  Willett [-@singer_applied_2003] distinguish between two types of pre
 
 Not surprisingly, different approaches may lead to the same "final model." The process Lefevor and colleagues [-@lefevor_religious_2017] follow echoes the Singer and Willett [-@singer_applied_2003] approach, so that is what we will do.
 
-As we procede:
+As we proceed:
 
 * Model 3 includes sexual identity (and its cross-level interaction with session number) as predictor of both initial status and change.
 * Model 4 adds religious affiliation to both L2 models. Its addition also includes interaction terms with session number and sexual identity.
